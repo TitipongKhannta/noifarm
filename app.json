@@ -11,7 +11,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#7EF2F6"
     },
-    "assetBundlePatterns": ["**/*"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.dieam.reactnativepushnotification",
@@ -27,6 +29,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "032f0d1a-8349-470f-b2a1-df8bd386a1c7"
+      }
     }
   }
 }
