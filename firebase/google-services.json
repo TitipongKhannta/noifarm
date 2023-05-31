@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078534771673",
+    "firebase_url": "https://project-b2fc2-default-rtdb.firebaseio.com",
+    "project_id": "project-b2fc2",
+    "storage_bucket": "project-b2fc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078534771673:android:1fdb0edbf3e483cbfb7fc8",
+        "android_client_info": {
+          "package_name": "com.dieam.reactnativepushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078534771673-u2c2a211dl17f63j1kcgdatlddo47atm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3F7e1Gaa6QJoSJqO0GYY6zcFr0Klp45M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078534771673-u2c2a211dl17f63j1kcgdatlddo47atm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

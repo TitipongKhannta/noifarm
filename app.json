@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "my-app2",
+    "slug": "my-app2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LOGO2.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/LOGO2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#7EF2F6"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dieam.reactnativepushnotification",
+      "googleServicesFile": "./firebase/GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "com.dieam.reactnativepushnotification",
+      "googleServicesFile": "./firebase/google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

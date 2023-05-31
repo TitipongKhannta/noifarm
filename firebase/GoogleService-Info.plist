@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1078534771673-vb4ba67slpf0266cevkk55fcjb1t4n2f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1078534771673-vb4ba67slpf0266cevkk55fcjb1t4n2f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWAcZ22k5qfYqWclv5ERY5MYa_ghErogs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1078534771673</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dieam.reactnativepushnotification</string>
+	<key>PROJECT_ID</key>
+	<string>project-b2fc2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-b2fc2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1078534771673:ios:97370c59318d5892fb7fc8</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-b2fc2-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
